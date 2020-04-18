@@ -35,7 +35,7 @@ foreach ($activities as $record) {
         <script type="text/javascript" src="custom/pageTop.js"></script>
         <div class="company">
             <h2>Agent List</h2>
-            <p>Click your TaskRouter Worker Prayer ID.</p>
+            <p>Click your Prayer Team Member Name.</p>
             <div id="agentList">
                 <table>
                     <?php
