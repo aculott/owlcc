@@ -56,6 +56,8 @@ foreach ($activities as $record) {
                 <a href="/index.html">Home</a>
             </div>
         </div>
+            <!--
         <script type="text/javascript" src="custom/pageBottom.js"></script>
+        -->
     </body>
 </html>
